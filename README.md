@@ -2,10 +2,8 @@
 
 I am Ian Sanchez Baca a CSCI major and I like playing video and card games. 
 
-## UX Team Project
-
-Coming soon.
+## Errand Planner
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Wireframes](j01/)
