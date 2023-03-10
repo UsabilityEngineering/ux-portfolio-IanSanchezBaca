@@ -7,4 +7,4 @@ I have attached my group’s wireframe below to show what one would look like. T
 
 Wireframes are an essential tool for UX designing because they allow the designer to be able to quickly draw different designs quickly and effortlessly. Once drawn they can show issues in the design early and fix them quickly and make them more effective, efficient and satisfying. 
 
-[[ https://github.com/UsabilityEngineering/ux-portfolio-IanSanchezBaca/blob/master/assets/Add_an_Errand.png ]]
+[[assets/Add_an_Errand.png]]
