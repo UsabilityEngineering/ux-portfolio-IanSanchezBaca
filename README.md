@@ -6,4 +6,4 @@ I am Ian Sanchez Baca a CSCI major and I like playing video and card games.
 
 ## UX Journal
 
-[Wireframes](j01/)
+[J01: Wireframes](j01/)
