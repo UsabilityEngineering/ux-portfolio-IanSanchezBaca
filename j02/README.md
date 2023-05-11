@@ -14,6 +14,9 @@ Now there are many different ways to record our participants. We could have gone
 ![overkill_recording](mages/Usability-lab.png)
 
 While the aforementioned method may be deemed efficient, it is, in our opinion, overly elaborate. In lieu of this approach, we employed a simpler technique that involved recording user interactions with our prototype via Zoom. 
+
+![zoom record button](mages/zoom_record.png)
+
 *We regret to inform that the recordings are not available for viewing, as per our commitment to destroy them at the conclusion of the semester.* 
 Zoom proved to be an effective tool for capturing all user interactions and recording the participants' voices. 
 Additionally, the platform facilitated the recording of any other digital assets, including screen shares and the use of chat features. 
